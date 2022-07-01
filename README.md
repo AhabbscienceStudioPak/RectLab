@@ -1,4 +1,5 @@
 # RectLab
+![](https://img.shields.io/github/stars/AhabbscienceStudioPak/RectLab.svg) ![](https://img.shields.io/github/forks/AhabbscienceStudioPak/RectLab.svg) ![](https://img.shields.io/github/issues/AhabbscienceStudioPak/RectLab.svg)
 Rectangle Laboratory, RectLab for short, is a simple application that can calculate the perimeter of almost any rectangle.
 
 <img src = "/slides/cs121presentation-01.jpg">
